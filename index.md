@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Expert Digital Marketing and Data Science Solutions
 
 You can use the [editor on GitHub](https://github.com/jrjames83/flatironsdigital/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
