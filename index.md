@@ -1,4 +1,6 @@
-## Expert Digital Marketing and Data Science Solutions
+## Hi There, thanks for stopping by! 
+
+We just migrated our site to GitHub Pages. We'll have additional content up shortly. 
 
 You can use the [editor on GitHub](https://github.com/jrjames83/flatironsdigital/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
