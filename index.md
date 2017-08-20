@@ -1,39 +1,31 @@
 ## Hi There, thanks for stopping by! 
 
-We just migrated our site to GitHub Pages. We'll have additional content up shortly. 
+We're a boutique digital agency located near Boulder, CO. We pride ourselves in "doing" and aren't afraid to share strong opnions regarding what works and what doesn't. 
 
-You can use the [editor on GitHub](https://github.com/jrjames83/flatironsdigital/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Here are some recent/current clients we've helped:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Local Companies:
+- Crocs
+- Sports Authority 
+- Penton Media
 
-### Markdown
+### Elsewhere Companies:
+- InterExchange
+- EquityLifestyle Properties
+- Morgans Hotel Group (now SBE)
+- Bookit.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## What we enjoy working on:
+- Complex digital marketing campaigns
+- SEO strategy, especially for sites with millions of pages which may have crawling/indexing issues
+- Web analytics and tag management (cough, messy javascript problems)
+- BI and Reporting either using Tableau open source products
+- Python / Django related work, especially in the context of data analytics and machine learning
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Need help with something? 
 
-1. Numbered
-2. List
+You're in luck. We actually read and respond to emails. Send a note over to jeffrey.james @ this domain and say hello. 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jrjames83/flatironsdigital/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
