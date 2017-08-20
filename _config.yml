@@ -2,3 +2,4 @@ theme: jekyll-theme-slate
 
 title: Flatirons Digital
 description: Expert Digital Marketing and Data Science in Boulder, CO
+show_downloads: false
