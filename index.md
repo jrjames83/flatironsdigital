@@ -20,7 +20,7 @@ Here are some recent/current clients we've helped:
 - Complex digital marketing campaigns
 - SEO strategy, especially for sites with millions of pages which may have crawling/indexing issues
 - Web analytics and tag management (cough, messy javascript problems)
-- BI and Reporting either using Tableau open source products
+- BI and Reporting either using Tableau or open source products
 - Python / Django related work, especially in the context of data analytics and machine learning
 
 
