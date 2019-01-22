@@ -1,6 +1,6 @@
 ## Hi There, thanks for stopping by! 
 
-We're a boutique digital agency located near Boulder, CO. We pride ourselves in "doing" and aren't afraid to share strong opnions regarding what works and what doesn't. 
+We're a boutique digital agency located in Denver, CO. We pride ourselves in "doing" and aren't afraid to share strong opinions regarding what works and what doesn't. 
 
 Here are some recent/current clients we've helped:
 
@@ -8,6 +8,7 @@ Here are some recent/current clients we've helped:
 - Crocs
 - Sports Authority 
 - Penton Media
+- Lillebaby
 
 ### Elsewhere Companies:
 - InterExchange
@@ -17,10 +18,10 @@ Here are some recent/current clients we've helped:
 
 
 ## What we enjoy working on:
-- Complex digital marketing campaigns
-- SEO strategy, especially for sites with millions of pages which may have crawling/indexing issues
-- Web analytics and tag management (cough, messy javascript problems)
-- BI and Reporting either using Tableau or open source products
+- Machine learning projects / algorithm development. 
+- Data-driven digital product strategy and analytics. 
+- Large-site SEO strategy, complex crawling/indexing issues.
+- Web analytics / reporting. 
 - Python / Django related work, especially in the context of data analytics and machine learning
 
 
